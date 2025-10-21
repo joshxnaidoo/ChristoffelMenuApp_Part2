@@ -23,3 +23,4 @@ It enables adding dishes, selecting a course, and viewing the total count of men
 1. Clone this repo:
    ```bash
    git clone https://github.com/joshxnaidoo/ChristoffelMenuApp_Part2.git
+   https://youtube.com/shorts/1vl9iCj5L2I?si=mr5ZTz25CB6iBuJh
